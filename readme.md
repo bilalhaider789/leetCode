@@ -1,0 +1,1 @@
+It is just a beggining of leetcode. read me will be updated soon.
