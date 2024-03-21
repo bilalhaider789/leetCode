@@ -12,29 +12,25 @@
 
  
 const compress = (chars) =>{
-    let result= [];
-    let current= null
-    let count=1
-    for(const char of chars){
-        
-        if(char!=current && current==null){
-            current=char
-            continue
+    let currentChar = chars[0];
+    let s = currentChar;
+    let countCurrentChar = 1;
+    for (let i = 1; i < chars.length; i++) {
+        if (chars[i] == currentChar) {
+            countCurrentChar++;
+        } else {
+            if (countCurrentChar > 1 ) s+=countCurrentChar.toString();
+            currentChar = chars[i];    
+            s+=currentChar;
+            countCurrentChar = 1;
         }
-        
-        if(char==current){
-            count++
-        }
-        if(char!==current){
-            result.push(current,count)
-            current=char
-            count=1
-        }
-        
     }
-    console.log(result);
-
+    if (countCurrentChar > 1 ) s+=countCurrentChar.toString();
     
+    for (let i = 0; i < s.length; i++) {
+       chars[i] = s[i];
+    }
+    return s.length;
 };
 
 console.log(compress(["a","a","b","b","c","c","c"]));
