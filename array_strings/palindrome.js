@@ -27,7 +27,7 @@ const findLongestPalindrone =(word)=>{
             end = evenHigh -1
         }
     }
-    console.log(word.slice(start, end + 1));   
+    return (word.slice(start, end + 1));   
 }
 
 console.log(findLongestPalindrone("my name is bilal. I am in a full stack developer")=="lal")
