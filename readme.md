@@ -19,4 +19,7 @@ Consistency & Discipline is the key to unlocking success on LeetCode. Just like 
 | # | Tag |Problem | Solution | Difficulty |
 |---|---|---------|----------| ---------- |
 | 1 | 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/array-product.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
-| 2 | |[Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [JavaScript]() | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 2 | 2721|[Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/async-parallel.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 3 | 452|[Minimum Number of Arrows to Burst Balloon](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/burst-ballons.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 4 | 746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/climbing-stairs.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 5 | 2705|[Compact Object](https://leetcode.com/problems/compact-object) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/compact-object.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
