@@ -18,5 +18,5 @@ Consistency & Discipline is the key to unlocking success on LeetCode. Just like 
 
 | # | Tag |Problem | Solution | Difficulty |
 |---|---|---------|----------| ---------- |
-| 1 | 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [JavaScript](./array-strings/1.array-product.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 1 | 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/array-product.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 2 | |[Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [JavaScript]() | ![](https://img.shields.io/badge/Easy-2EA043) |
