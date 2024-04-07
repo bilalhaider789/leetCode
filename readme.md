@@ -5,9 +5,15 @@
 Welcome to my LeetCode repository! Here, you'll find solutions to all the questions I've successfully tackled. This repository is dedicated to enhancing problem-solving skills and preparing for technical interviews. Feel free to visit my [leetcode profile](https://leetcode.com/bilal_haider/) for insights into my progress and statistics.
 
   
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co/dm6BQBC/leetcode.png" width="45%" alt="LeetCode Logo"/>
+</p> -->
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnA86vBVnCLDIlNhexFP-Q0SDTpvISm_IWuMBXkmLyCQ&s" width="45%" alt="LeetCode Logo"/>
 </p>
+
+
 
 ## Advise For You
 Consistency & Discipline is the key to unlocking success on LeetCode. Just like drops of water carve through stone with persistent patience, your daily efforts will sculpt a path to mastery. Stay committed, keep coding, and watch your skills soar higher with each passing challenge. 
@@ -83,4 +89,19 @@ Hard-cf2738
 | 3 | **2352**|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/hash_sets/equal-row-column.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 4 | **1207**|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/hash_sets/unique-occurences.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
+### Heap & Priorities
 
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **215**|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/heap_priority/kth-largest-element.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | **2542**|[ Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/heap_priority/max-subsequence-score.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+
+### Linked List
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **2095**|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/delete-middle.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | **2130**|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/max-twin-sum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **328**|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/odd-even.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | **206**|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/reverse.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
