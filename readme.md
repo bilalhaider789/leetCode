@@ -18,6 +18,7 @@ Easy-2EA043
 Medium-ffc04a
 
 Hard-cf2738
+### Array & Strings
 
 | # | Tag |Problem | Solution | Difficulty |
 |---|---|---------|----------| ---------- |
@@ -41,7 +42,7 @@ Hard-cf2738
 | 18 | **56**|[ Merge Intervals](https://leetcode.com/problems/merge-intervals) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/merge-intervals.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 19 | **1318**|[ Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/min-bits-slips.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 20 | **51**|[ N Queens](https://leetcode.com/problems/n-queens) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/n-queens.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
-| 21 | **435**|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/non-overlapping-intervals.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
+| 21 | **435**|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/non-overlapping-intervals.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 22 | **1431**|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/number-of-candies.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 23 | **547**|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/number-of-provinces.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 24 | **5**|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/palindrome.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
@@ -56,5 +57,30 @@ Hard-cf2738
 | 33 | **62**|[ Unique Paths](https://leetcode.com/problems/unique-paths) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/unique-paths.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 34 | **3**|[ Longest Substring Without Repeating Character](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/array_strings/unique-string.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
+### Back Tracking
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **216**|[Combination Sum 3](https://leetcode.com/problems/combination-sum-iii) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/back_tracking/combination-sum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | **17**|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/back_tracking/letter-combinations.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+
+### Binary Search
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **374**|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/binary_search/guess-number.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 2 | **875**|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/binary_search/koko-bananas.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **162**|[Find Peak Element](https://leetcode.com/problems/find-peak-element) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/binary_search/peak-value.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | **2300**|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/binary_search/spells-potion.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+### Hash, Maps & Sets
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **2215**|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/hash_sets/array-difference.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 2 | **1657**|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/hash_sets/close-strings.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **2352**|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/hash_sets/equal-row-column.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | **1207**|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/hash_sets/unique-occurences.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
