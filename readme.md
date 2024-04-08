@@ -105,3 +105,32 @@ Hard-cf2738
 | 2 | **2130**|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/max-twin-sum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 3 | **328**|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/odd-even.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 4 | **206**|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/linked_list/reverse.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+
+
+### Pointers
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **392**|[Is Subsequence](https://leetcode.com/problems/is-subsequence) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/pointers/is-subsequence.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 2 | **1679**|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/pointers/max-number-of-sum-pairs.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **11**|[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/pointers/max-water.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | **283**|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/pointers/move-zeros.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+
+
+### Prefix
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **1732**|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/prefix/highest-attitude.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 2 | **724**|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/prefix/pivot-index.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+
+
+### Sliding Window
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **1493**|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/longest-one-after-deletion.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | **1004**|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/longest-ones.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **643**|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/max-average.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 4 | **239**|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/max-sliding-window.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
+| 5 | **1456**|[Maximum Number of Vowels in a Substring](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/max-vowels-in-substring.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
