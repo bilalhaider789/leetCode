@@ -19,11 +19,6 @@ Welcome to my LeetCode repository! Here, you'll find solutions to all the questi
 Consistency & Discipline is the key to unlocking success on LeetCode. Just like drops of water carve through stone with persistent patience, your daily efforts will sculpt a path to mastery. Stay committed, keep coding, and watch your skills soar higher with each passing challenge. 
 ## Problems & Solutions
 
-Easy-2EA043
-
-Medium-ffc04a
-
-Hard-cf2738
 ### Array & Strings
 
 | # | Tag |Problem | Solution | Difficulty |
@@ -134,3 +129,30 @@ Hard-cf2738
 | 3 | **643**|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/max-average.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 4 | **239**|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/max-sliding-window.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
 | 5 | **1456**|[Maximum Number of Vowels in a Substring](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/sliding_window/max-vowels-in-substring.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+
+### Stack & Queue
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **735**|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/stack_queue/asteriod-collision.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | **394**|[Decode String](https://leetcode.com/problems/decode-string) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/stack_queue/decode-string.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **649**|[Dota2 Senate](https://leetcode.com/problems/dota2-senate) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/stack_queue/dota2-senate.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | **933**|[ Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/stack_queue/recent-calls.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 5 | **2390**|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/stack_queue/removing-stars.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+
+### Trees
+
+| # | Tag |Problem | Solution | Difficulty |
+|---|---|---------|----------| ---------- |
+| 1 | **450**|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/delete-node-bst.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | **1448**|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/good-nodes-dfs.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | **872**|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/leaf-similar-dfs.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 4 | **104**|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/max-depth-node-dfs.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 5 | **1161**|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/max-level-sum-bfs.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 6 | **1926**|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/nearest-exit-bfs.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 7 | **199**|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/right-view-bfs.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 8 | **994**|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/rotten-oranges-bst.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 9 | **700**|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/search-bst.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 10 | **1372**|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | [JavaScript](https://github.com/bilalhaider789/leetCode/blob/main/trees/zig-zag-dfs.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
