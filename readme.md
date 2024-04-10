@@ -4,10 +4,6 @@
 
 Welcome to my LeetCode repository! Here, you'll find solutions to all the questions I've successfully tackled. This repository is dedicated to enhancing problem-solving skills and preparing for technical interviews. Feel free to visit my [leetcode profile](https://leetcode.com/bilal_haider/) for insights into my progress and statistics.
 
-  
-<!-- <p align="center">
-  <img src="https://i.ibb.co/dm6BQBC/leetcode.png" width="45%" alt="LeetCode Logo"/>
-</p> -->
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnA86vBVnCLDIlNhexFP-Q0SDTpvISm_IWuMBXkmLyCQ&s" width="45%" alt="LeetCode Logo"/>
@@ -18,7 +14,7 @@ Welcome to my LeetCode repository! Here, you'll find solutions to all the questi
 ## Advise For You
 Consistency & Discipline is the key to unlocking success on LeetCode. Just like drops of water carve through stone with persistent patience, your daily efforts will sculpt a path to mastery. Stay committed, keep coding, and watch your skills soar higher with each passing challenge. 
 ## Problems & Solutions
-
+Following are all the topics with questions and my solutions that I have solved on leetcode. Every question has its tag and link to leetcode with my solution link of github. All the solutions has been submitted on leetcode and has passed all the test cases of leetcode. Feel free to point out any error or improvements in my solutions by creating an issue or a pull request. 
 ### Array & Strings
 
 | # | Tag |Problem | Solution | Difficulty |
